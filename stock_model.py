@@ -1,7 +1,3 @@
-import argparse
-import sys
-
-import tensorflow as tf
 import functools
 
 from ops import *

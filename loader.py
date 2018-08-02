@@ -8,7 +8,9 @@ import pandas as pd
 import functools as ft
 import csv
 import os
+
 np.set_printoptions(threshold=np.nan)
+
 
 class DataSet(object):
   def __init__(self,
